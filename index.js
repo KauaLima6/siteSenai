@@ -1,6 +1,6 @@
-const Button = document.querySelector("button")
-const modal = document.querySelector("dialog")
-const closeModal = document.querySelector("dialog span")
+const Button = document.querySelector('button')
+const modal = document.querySelector('dialog')
+const closeModal = document.querySelector('dialog span')
 
 
 Button.onclick = function() {
